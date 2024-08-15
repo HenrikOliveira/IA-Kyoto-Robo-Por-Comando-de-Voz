@@ -7,3 +7,12 @@ A finalidade do robo é auxiliar um profissional de segurança e tecnologia da i
 ---> Crie uma nova pasta em seu /Desktop
 ----> Abra ele com VSstudio code, e logo em seguida abra a pasta com Ctrl + Shifit + ' (Aspas Dupla) e abra o seu terminal
 ------> Ele ira abrir e axiliara voce pesquisando resultados na Rede consultando de forma mais rapida a Web
+
+
+**Como usar?**
+
+Instale antes as dependencias com o código abaixo 
+------> pip install SpeechRecognition pyttsx3 wikipedia-api
+Para usar abaixo;)
+----> python assistant.py
+em seu termianl 
