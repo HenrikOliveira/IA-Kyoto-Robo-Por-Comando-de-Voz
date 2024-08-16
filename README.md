@@ -14,5 +14,5 @@ A finalidade do robo é auxiliar um profissional de segurança e tecnologia da i
 Instale antes as dependencias com o código abaixo 
 ------> pip install SpeechRecognition pyttsx3 wikipedia-api
 **Para usar abaixo;)**
------------->  python .\Kyoto\inteigencia\kyoto-Y4g4z4k.py
+------------>  PS C:\Users\Usuario\Desktop\Kyoto\inteigencia> python .\kyoto-Y4g4z4k.py
 -----------------> em seu termianl  PS C:\Users\Usuario\Desktop> 
